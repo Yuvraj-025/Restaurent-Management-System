@@ -19,6 +19,52 @@ The application is architected using modern web technologies with an emphasis on
 
 ---
 
+## Application Screenshots and Demo
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Landing Page</h3>
+      <img src="screenshots/landing.png" alt="Landing Page" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Menu Interface</h3>
+      <img src="screenshots/menu.png" alt="Menu Interface" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Shopping Cart</h3>
+      <img src="screenshots/cart.png" alt="Shopping Cart" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Checkout Experience</h3>
+      <img src="screenshots/checkout.png" alt="Checkout Experience" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Admin Dashboard - Menu Management</h3>
+      <img src="screenshots/adminmenu.png" alt="Menu Management" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Admin Dashboard - Order Tracking</h3>
+      <img src="screenshots/order.png" alt="Order Tracking" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Admin Dashboard - Settings</h3>
+      <img src="screenshots/setting.png" alt="Settings" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Receipt and Invoice</h3>
+      <img src="screenshots/bill.png" alt="Receipt and Invoice" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
 ## Core Features
 
 ### Customer-Facing Features
@@ -306,23 +352,6 @@ Implement password hashing using bcrypt with a salt round count of 10 or higher 
 
 ---
 
-## Application Screenshots and Demo
-
-### Landing Page
-
-### Menu Interface
-
-### Shopping Cart
-
-### Checkout Experience
-
-### Administrator Dashboard - Menu Management
-
-### Administrator Dashboard - Order Tracking
-
-### Administrator Dashboard - Settings
-
-### Receipt and Invoice
 
 
 ## Troubleshooting
