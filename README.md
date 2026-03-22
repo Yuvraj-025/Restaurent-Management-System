@@ -48,8 +48,8 @@ The application is architected using modern web technologies with an emphasis on
       <img src="screenshots/adminmenu.png" alt="Menu Management" width="100%" />
     </td>
     <td align="center" width="50%">
-      <h3>Admin Dashboard - Order Tracking</h3>
-      <img src="screenshots/order.png" alt="Order Tracking" width="100%" />
+      <h3>Receipt and Invoice</h3>
+      <img src="screenshots/bill.png" alt="Receipt and Invoice" width="100%" />
     </td>
   </tr>
   <tr>
@@ -58,8 +58,8 @@ The application is architected using modern web technologies with an emphasis on
       <img src="screenshots/setting.png" alt="Settings" width="100%" />
     </td>
     <td align="center" width="50%">
-      <h3>Receipt and Invoice</h3>
-      <img src="screenshots/bill.png" alt="Receipt and Invoice" width="100%" />
+      <h3>Admin Dashboard - Order Tracking</h3>
+      <img src="screenshots/order.png" alt="Order Tracking" width="100%" />
     </td>
   </tr>
 </table>
